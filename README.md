@@ -9,4 +9,3 @@ We will be doing Exploratory Data Analysis, Data Cleaning, Feature Engineering a
 
 We will be using the standard inbuilt anaconda package installation. We will use python packages such as NumPy, Pandas, Seaborn,
 matplotlib and Scikit learn for the mentioned activities.
-
