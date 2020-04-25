@@ -10,5 +10,18 @@ We will be doing Exploratory Data Analysis, Data Cleaning, Feature Engineering a
 We will be using the standard inbuilt anaconda package installation. We will use python packages such as NumPy, Pandas, Seaborn,
 matplotlib and Scikit learn for the mentioned activities.
 
+```sh
+$ import pandas as pd
+$ import numpy as np
+$ import matplotlib.pyplot as plt
+$ import seaborn as sns
+$ %matplotlib.pyplot as plt
+```
+
+## Datasets
+
+The datasets folder consists of the '*.csv' file, which we will be using in this notebook.
+
+
 
 ** The project is yet to be completed
